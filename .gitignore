@@ -32,3 +32,4 @@ google-services.json
 
 # Android Profiling
 *.hprof
+content://media/external/file/1000065565
