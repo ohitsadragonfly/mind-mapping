@@ -11,3 +11,4 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/YOUR_USERNAME/mind-real-estate.git
 git branch -M main
 git push -u origin main
+ content://media/external/file/1000065565
