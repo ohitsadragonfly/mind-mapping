@@ -1,0 +1,13 @@
+# Unzip the repo
+unzip mind_real_estate_github_repo.zip -d mind-real-estate
+cd mind-real-estate
+
+# Initialize git
+git init
+git add .
+git commit -m "Initial commit"
+
+# Create a new repo on github.com first (mind-real-estate), then:
+git remote add origin https://github.com/YOUR_USERNAME/mind-real-estate.git
+git branch -M main
+git push -u origin main
